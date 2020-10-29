@@ -1,0 +1,30 @@
+body{
+    margin: 2%;
+}
+button{
+    cursor: pointer;
+}
+#Cabecera{
+    max-width: 85%;
+    /*Alineacion de imagen*/
+    display: block;
+    margin: auto;
+}
+#Fondo{
+    /*Imagen responsive*/
+    width: 100%;
+    height: auto;
+    /*Bordes redondos*/
+    border-radius: 10px;
+}
+#Resultado{
+    display: none;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+#Sobrante{
+    display: none;
+    font-size: 150%;
+    font-weight: bold;
+}
